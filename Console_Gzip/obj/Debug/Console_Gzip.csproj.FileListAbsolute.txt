@@ -1,0 +1,7 @@
+C:\prjS\_digerProgs\Console_Gzip\Console_Gzip\bin\Debug\Console_Gzip.exe.config
+C:\prjS\_digerProgs\Console_Gzip\Console_Gzip\bin\Debug\Console_Gzip.exe
+C:\prjS\_digerProgs\Console_Gzip\Console_Gzip\bin\Debug\Console_Gzip.pdb
+C:\prjS\_digerProgs\Console_Gzip\Console_Gzip\obj\Debug\Console_Gzip.csprojAssemblyReference.cache
+C:\prjS\_digerProgs\Console_Gzip\Console_Gzip\obj\Debug\Console_Gzip.csproj.CoreCompileInputs.cache
+C:\prjS\_digerProgs\Console_Gzip\Console_Gzip\obj\Debug\Console_Gzip.exe
+C:\prjS\_digerProgs\Console_Gzip\Console_Gzip\obj\Debug\Console_Gzip.pdb
